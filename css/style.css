@@ -160,7 +160,6 @@ padding-bottom: 30px;
     line-height: 43.96px;
     text-align: center;
     color: #4E6FAE;
-    padding-top: 160px;
 }
 #last-img{
     width: 447px;
@@ -183,7 +182,4 @@ padding-top: 120px;
 display: block;
 margin-left: auto;
 margin-right: auto;
-}
-#map{
-    padding: 80px;
 }
